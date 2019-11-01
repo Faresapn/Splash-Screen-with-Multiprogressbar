@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Media Player</string>
+
+
+    <string-array name="fruit">
+        <item>Alpukat</item>
+        <item>Apel</item>
+        <item>Ceri</item>
+        <item>Durian</item>
+        <item>Jambu Air</item>
+        <item>Manggis</item>
+        <item>Strawberry</item>
+
+    </string-array>
+
+    <array name="image">
+        <item>@drawable/alpukat</item>
+        <item>@drawable/apel</item>
+        <item>@drawable/ceri</item>
+        <item>@drawable/durian</item>
+        <item>@drawable/jambuair</item>
+        <item>@drawable/manggis</item>
+        <item>@drawable/strawberry</item>
+
+    </array>
+
+    <array name="Music">
+        <item>@raw/alpukat</item>
+        <item>@raw/apel</item>
+        <item>@raw/ceri</item>
+        <item>@raw/durian</item>
+        <item>@raw/jambuair</item>
+        <item>@raw/manggis</item>
+        <item>@raw/strawberry</item>
+
+    </array>
+</resources>
